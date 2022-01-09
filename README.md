@@ -1,1 +1,1 @@
-"# AdaptaProSync" 
+# AdaptaProSync
