@@ -5,6 +5,10 @@ __pycache__/
 build/
 dist/
 
+# PyInstaller
+*.manifest
+*.spec
+
 # Environments
 Env-*/
 
@@ -12,4 +16,4 @@ Env-*/
 *.log
 
 # Config files
-ini/*.*
+ini/config.ini

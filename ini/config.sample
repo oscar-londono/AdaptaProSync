@@ -1,0 +1,15 @@
+##################################################
+# Config File                                    #
+##################################################
+
+[SERVER_SOURCE]
+BD_HOST = 
+BD_USER = 
+BD_PASSWORD = 
+BD_NAME = 
+
+[SERVER_DESTINATION]
+BD_HOST = 
+BD_USER = 
+BD_PASSWORD = 
+BD_NAME = 
